@@ -8,7 +8,7 @@ This task involves launching a container on Docker in GUI mode and running GUI s
 
 Below is an architecture diagram illustrating the setup:
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](GUI_Docker_archecture.png)
 
 ## Prerequisites
 - Red Hat (RHEL8) Linux
