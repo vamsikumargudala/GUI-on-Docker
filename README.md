@@ -1,5 +1,5 @@
 
-# GUI Container on Docker
+#  Graphical user interface (GUI) Container on Docker
 
 ## Task Description 📄
 This task involves launching a container on Docker in GUI mode and running GUI software within the container. Specifically, I will demonstrate running applications like Firefox and Jupyter Notebook inside a Docker container.
